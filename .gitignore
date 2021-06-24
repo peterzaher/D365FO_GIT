@@ -3,7 +3,13 @@
 
 *
 */
-!/VSProjects
-!/GitModel
+!**/VSProjects/**
+!**/GitModel/**
+!**/ATOS*/**
 !*/
 !.gitignore
+**/bin/**
+**/Debug/**
+**/.vs/**
+**/XppMetaData/**
+**/BuildProjectResult.*
